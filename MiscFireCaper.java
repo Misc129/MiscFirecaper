@@ -35,8 +35,7 @@ import miscfirecaper.util.Task;
 public class MiscFireCaper extends PollingScript implements PaintListener, MessageListener{
 	/*
 	 * TODO
-	 * -get jad death animation to update database immediately after death
-	 * -clean up GUI
+	 * 
 	 * 
 	 * 
 	 * BUGS
