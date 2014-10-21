@@ -12,3 +12,5 @@ Video the script in action:
 
 v2:
 	https://www.youtube.com/watch?v=Hdyo-6fmilY
+	
+Over 2000 users purchased this script.
